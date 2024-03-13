@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.font {
+    font-family: sans-serif;
+}
+
+.hero-image {
+    background-image: url(/maplehero.png);
+    min-height: 80dvh;
+    background-size: cover;
+    background-position: right;
+
+}
+
+.logo {
+    width: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.card-1 {
+    background-image: url(blogimg.png);
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-position: center;
+    background-size: cover;
+}
