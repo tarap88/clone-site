@@ -30,3 +30,19 @@ a {
     background-position: center;
     background-size: cover;
 }
+
+.card-2 {
+    background-image: url(officeimg.png);
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-position: center;
+    background-size: cover;
+}
+
+.card-3 {
+    background-image: url(expertiseimg.png);
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-position: center;
+    background-size: cover;
+}
